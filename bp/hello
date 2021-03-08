@@ -1,0 +1,3 @@
+PROGRAM hello
+Crt 'Hello WOrld'
+STOP
