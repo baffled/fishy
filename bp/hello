@@ -1,3 +1,4 @@
 PROGRAM hello
-Crt 'Hello WOrld'
+Crt 'Hello World'
+Crt 'Oh no, not you again!'
 STOP
